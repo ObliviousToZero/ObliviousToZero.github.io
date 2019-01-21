@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: f0fa6d0d25f1611ad3b33                           #生成的clientID
+  clientSecret: d23588d64fa40b2a39b56297abc65cbf4e9f6860    #生成的clientSecret
   repo: oblivioustozero.github.io    #仓库名称
   owner: oblivioustozero    #github用户名
   admin: oblivioustozero
