@@ -4,7 +4,7 @@ title:      NLP笔记introduction
 subtitle:   
 date:       2019-1-21-NLP
 author:     WRW
-header-img: img/2019-1-21-NLP笔记introduction/1.png
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - NLP
