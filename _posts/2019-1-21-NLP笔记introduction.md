@@ -17,7 +17,7 @@ NLP的应用场景
 
 假如我们收到了关于安排会议的邮件，我们希望软件能自动注意到会议时间，提取这些信息，创建一个新的日历条目。
 
-![](img/2019-1-21-NLP笔记introduction/1.png)
+![](https://github.com/ObliviousToZero/ObliviousToZero.github.io/tree/master/img/2019-1-21-NLP%E7%AC%94%E8%AE%B0introduction/1.png)
 
 另一个应用场景是涉及情感分析。想象一下，当你对相机很感兴趣，而且你正在网上阅读很多关于相机的评论。这时我们想从评论中自动确定这种相机各种属性的好坏。例如，如果一个评论者说，相机便于携带，这表现了相机好的一面。因此，我们希望能自动对文本进行情感分析。
 
