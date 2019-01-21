@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f0fa6d0d25f1611ad3b33                           #生成的clientID
   clientSecret: d23588d64fa40b2a39b56297abc65cbf4e9f6860    #生成的clientSecret
-  repo: oblivioustozero.github.io    #仓库名称
-  owner: oblivioustozero    #github用户名
-  admin: oblivioustozero
+  repo: ObliviousToZero.github.io    #仓库名称
+  owner: ObliviousToZero    #github用户名
+  admin: ObliviousToZero
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
