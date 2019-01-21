@@ -35,4 +35,4 @@ NLP面临的许多问题依旧很难解决。
 
 需要的技能
 
-![](img/2019-1-21-NLP笔记introduction/6.png)
+img/2019-1-21-NLP笔记introduction/6.png
