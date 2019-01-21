@@ -1,10 +1,10 @@
 ﻿---
 layout:     post
 title:      NLP笔记introduction
-subtitle:   img/2019-1-21-NLP笔记introduction/1.png
+subtitle:   
 date:       2019-1-21-NLP
 author:     WRW
-header-img: img/post-bg-cook.jpg
+header-img: img/2019-1-21-NLP笔记introduction/1.png
 catalog: true
 tags:
     - NLP
