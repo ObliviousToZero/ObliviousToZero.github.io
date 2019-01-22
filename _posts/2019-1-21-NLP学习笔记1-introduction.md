@@ -1,6 +1,6 @@
 ﻿---
 layout:     post
-title:      NLP笔记introduction
+title:      NLP学习笔记1-introduction
 subtitle:   
 date:       2019-1-21-NLP
 author:     WRW
@@ -11,7 +11,7 @@ tags:
 ---
 
 
-## 2019-1-21-NLP笔记introduction
+## 2019-1-21-NLP学习笔记1-introduction
 
 NLP的应用场景
 
