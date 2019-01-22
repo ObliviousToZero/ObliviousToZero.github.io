@@ -11,7 +11,7 @@ tags:
 ---
 
 
-## 2019-1-21-NLP学习笔记1-introduction
+## NLP学习笔记1-introduction
 
 NLP的应用场景
 
